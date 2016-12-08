@@ -1,0 +1,208 @@
+
+/*#title{*/
+  /*top: 0;*/
+  /*left: 40%;*/
+/*}*/
+
+
+/*.titleSection{*/
+  /*padding: 15px;*/
+  /*width:80%;*/
+  /*margin:15px auto;*/
+  /*border:2px solid rgb(231,231,231);*/
+  /*text-align: left;*/
+  /*border-radius: 5px;*/
+
+/*}*/
+
+/*.quizSection{*/
+  /*width:80%;*/
+  /*margin:15px auto;*/
+  /*border:2px solid rgb(231,231,231);*/
+  /*text-align: left;*/
+  /*border-radius: 5px;*/
+/*}*/
+
+/*h3{*/
+  /*margin:0px;*/
+/*}*/
+
+/*h4{*/
+  /*margin:0px;*/
+
+/*}*/
+
+
+
+/*li{*/
+  /*margin:0px 0px 10px 0;*/
+/*}*/
+
+/*.titleSection span{*/
+  /*display: inline-block;*/
+  /*width: 33%;*/
+  /*line-height:1.2rem;*/
+  /*vertical-align:text-bottom;*/
+  /*!*!*vertical-align:text-bottom;  这两个是用来调节垂直方向上字体位置*!*!*/
+/*}*/
+
+/*#title-two b{*/
+  /*vertical-align:text-bottom;*/
+  /*!*专门用来让字体处于右边的input的中间*!*/
+/*}*/
+
+/*input{*/
+  /*border:2px solid rgb(231,231,231);*/
+  /*border-radius: 5px;*/
+  /*font-size: 1.2rem;*/
+/*}*/
+
+/*.headLine{*/
+  /*border-bottom:2px solid rgb(231,231,231);*/
+  /*background-color: rgb(245,245,245);*/
+  /*padding:15px;*/
+/*}*/
+
+/*.quizBody{*/
+  /*line-height: 1.4rem;*/
+  /*padding:0px 0px 10px 10px;*/
+
+/*}*/
+
+/*.selection{*/
+  /*margin-top:10px;*/
+/*}*/
+
+/*li div{*/
+  /*margin:5px 0;*/
+/*}*/
+
+textarea{
+  border:2px solid rgb(231,231,231);
+  border-radius: 5px;
+  font-size: 1.2rem;
+  margin-top: 5px;
+  margin-bottom: 10px;
+  height: 6rem;
+  width:98%;
+}
+
+#submit{
+  padding: 5px 10px;
+  border:0px;
+  background-color: rgb(66,139,202);
+  font-size: 0.8em;
+  border-radius: 5px;
+  color: rgb(210,214,219);
+}
+
+#br{
+  background-color: rgb(231,231,231);
+  height: 2px;
+  width: 80%;
+  margin: 20px auto;
+}
+
+body{
+  padding:10px 40px;
+  margin:0;
+  text-align: center;
+  font-family: "Arial Rounded MT Bold";
+  line-height: 1.4rem;
+  font-size: 0.83rem;
+}
+
+h1{
+  margin: 10px auto;
+}
+
+h3{
+  margin:0;
+}
+
+h4{
+  margin:0;
+}
+
+i{
+  margin-left: 3px;
+}
+
+.titleSection{
+  border:2px solid rgb(232,232,232);
+  width:80%;
+  margin:0 10% 20px 10%;
+  border-radius: 5px;
+  text-align: left;
+  padding:10px 0;
+}
+
+.quizSection{
+  border:2px solid rgb(232,232,232);width:80%;
+  margin:0 10% 20px 10%;
+  border-radius: 5px;
+  text-align: left;
+}
+
+.headLine{
+  background-color: rgb(245,245,245);
+  border-bottom: 2px solid rgb(232,232,232);
+  padding: 15px;
+}
+
+.definitionSection{
+  /*font-family: "Adobe Song Std";*/
+  font-weight: bolder;
+  line-height:1rem;
+  vertical-align: text-bottom;
+}
+
+.selection{
+  margin: 10px 0;
+  display: inline-block;
+  width: 30%;
+  font-family: Arial;
+  font-size: 0.76rem;
+}
+
+.selectionTitle{
+  margin: 0 10px;
+  display: inline-block;
+  width: 30%;
+}
+
+.inputText{
+  border:2px solid rgb(232,232,232);
+  border-radius: 5px;
+  line-height:1.5rem;
+  width:10rem;
+  margin-top: 5px;
+  margin-bottom: 8px;
+}
+
+.quizBody{
+  padding-left:15px;
+  padding-right: 15px;
+}
+
+.checkedQuiz{
+  margin: 15px 0;
+}
+
+.iconRight{
+  color: rgb(60,118,61);
+}
+
+.iconWrong{
+  color: rgb(169,68,66)
+}
+
+.checkedLabel{
+  display: inline-block;
+  margin:0 3px;
+}
+
+#checkedQuiz{
+  margin-bottom:10px;
+}
+
